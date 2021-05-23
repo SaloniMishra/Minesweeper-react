@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02f91e7e-42b7-49ef-9249-31af31471b8c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="58" lean-forward="true" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/Game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/Board.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12">
+              <caret line="236" column="43" selection-start-line="236" selection-start-column="35" selection-end-line="236" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/component/Cell.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/build.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Route</find>
+      <find>router</find>
+      <find>Router</find>
+      <find>getRandomNumber</find>
+      <find>handlecellclick</find>
+      <find>plantMines</find>
+      <find>minesPlanted</find>
+      <find>getHidden</find>
+      <find>win</find>
+      <find>getValue</find>
+      <find>value.x</find>
+      <find>index</find>
+      <find>export</find>
+      <find>game</find>
+      <find>alert</find>
+      <find>boardData</find>
+      <find>handleContextMenu</find>
+      <find>className</find>
+      <find>resetTable</find>
+      <find>isFlag</find>
+      <find>you lost</find>
+      <find>height</find>
+      <find>randomx</find>
+      <find>revealBoard</find>
+      <find>00 : 00 : 00</find>
+      <find>gameStatus</find>
+      <find>cellItemShape</find>
+      <find>gameText</find>
+      <find>getMines</find>
+      <find>isRevealed</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\reactProjects\my-react-project\src\components\Burger</dir>
+      <dir>D:\reactProjects\my-react-project\src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/layout/layout.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.js" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.css" />
+        <option value="$PROJECT_DIR$/src/components/Logo/Logo.js" />
+        <option value="$PROJECT_DIR$/src/components/Logo/Logo.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/Toolbar.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/Toolbar.js" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/SideDrawer/SideDrawer.js" />
+        <option value="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/DrawerToggle/DrawerToggle.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/DrawerToggle/DrawerToggle.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/Burger.css" />
+        <option value="$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js" />
+        <option value="$PROJECT_DIR$/src/axios-orders.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/layout.js" />
+        <option value="$PROJECT_DIR$/src/components/UI/Spinner/Spinner.js" />
+        <option value="$PROJECT_DIR$/src/components/UI/Spinner/Spinner.css" />
+        <option value="$PROJECT_DIR$/src/components/Burger/Burger.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl.js" />
+        <option value="$PROJECT_DIR$/src/hoc/withErrorHandler/withErrorHandler.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" />
+        <option value="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" />
+        <option value="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/Header.css" />
+        <option value="$PROJECT_DIR$/src/components/InformationTab/InformationTab.css" />
+        <option value="$PROJECT_DIR$/src/components/InformationTab/InformationTab.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/Header.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/Input.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/Input.css" />
+        <option value="$PROJECT_DIR$/src/components/MapContainer/MapContainer.js" />
+        <option value="$PROJECT_DIR$/src/containers/App.css" />
+        <option value="$PROJECT_DIR$/src/components/UI/Button/Button.js" />
+        <option value="$PROJECT_DIR$/src/containers/App.js" />
+        <option value="$PROJECT_DIR$/src/components/UI/Button/Button.css" />
+        <option value="$PROJECT_DIR$/src/containers/CheckoutContainer/CheckoutContainer.js" />
+        <option value="$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.js" />
+        <option value="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" />
+        <option value="$PROJECT_DIR$/src/components/Game.js" />
+        <option value="$PROJECT_DIR$/src/components/Board.js" />
+        <option value="$PROJECT_DIR$/src/style.css" />
+        <option value="$PROJECT_DIR$/src/components/Cell.js" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/style.scss" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/component/Game.js" />
+        <option value="$PROJECT_DIR$/src/component/Board.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/component/Cell.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1540" />
+    <option name="height" value="835" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-react-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-react-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-react-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-react-project" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-react-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-react-project" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-react-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-react-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-react-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-react-project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="component" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/primeRepo/pgbu_platform-2.0" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\reactProjects\my-react-project\src\components\Burger" />
+      <recent name="D:\reactProjects\my-react-project\src\components" />
+      <recent name="D:\reactProjects\my-react-project\src\assets" />
+      <recent name="D:\reactProjects\my-react-project\src\containers" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\reactProjects\my-react-project\src\components\UI" />
+      <recent name="D:\reactProjects\my-react-project\src\assets\images" />
+      <recent name="D:\reactProjects\my-react-project\src\containers" />
+      <recent name="D:\reactProjects\my-react-project\src" />
+      <recent name="D:\reactProjects\my-react-project\src\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02f91e7e-42b7-49ef-9249-31af31471b8c" name="Default Changelist" comment="" />
+      <created>1612778973894</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612778973894</updated>
+      <workItem from="1612778975347" duration="4764000" />
+      <workItem from="1612861931401" duration="3524000" />
+      <workItem from="1613040128418" duration="4753000" />
+      <workItem from="1613292097264" duration="7903000" />
+      <workItem from="1614766898824" duration="7985000" />
+      <workItem from="1614844880996" duration="16215000" />
+      <workItem from="1615192204798" duration="7003000" />
+      <workItem from="1615265488700" duration="1851000" />
+      <workItem from="1615294487216" duration="1909000" />
+      <workItem from="1615465783620" duration="1659000" />
+      <workItem from="1615537418752" duration="541000" />
+      <workItem from="1615638448733" duration="1759000" />
+      <workItem from="1615640240548" duration="1225000" />
+      <workItem from="1615790165951" duration="13000" />
+      <workItem from="1616136416588" duration="1000" />
+      <workItem from="1616136425384" duration="3054000" />
+      <workItem from="1616237397453" duration="1783000" />
+      <workItem from="1616239204543" duration="1784000" />
+      <workItem from="1616241015010" duration="1858000" />
+      <workItem from="1616243370927" duration="1779000" />
+      <workItem from="1616245174151" duration="1787000" />
+      <workItem from="1616247001559" duration="1013000" />
+      <workItem from="1616251000025" duration="1787000" />
+      <workItem from="1616252817676" duration="1775000" />
+      <workItem from="1616254890502" duration="1789000" />
+      <workItem from="1616256700303" duration="1803000" />
+      <workItem from="1616258532947" duration="1788000" />
+      <workItem from="1616260350085" duration="121000" />
+      <workItem from="1616305469999" duration="1777000" />
+      <workItem from="1616307317039" duration="1937000" />
+      <workItem from="1616309289255" duration="1805000" />
+      <workItem from="1616312384425" duration="762000" />
+      <workItem from="1616330510477" duration="1672000" />
+      <workItem from="1616392519587" duration="14000" />
+      <workItem from="1616417110162" duration="985000" />
+      <workItem from="1616573893107" duration="1390000" />
+      <workItem from="1616589874346" duration="2470000" />
+      <workItem from="1617261425895" duration="596000" />
+      <workItem from="1617600499213" duration="1243000" />
+      <workItem from="1617771463868" duration="1215000" />
+      <workItem from="1617876478519" duration="4669000" />
+      <workItem from="1618458680030" duration="599000" />
+      <workItem from="1620555722566" duration="11000" />
+      <workItem from="1620555791145" duration="288000" />
+      <workItem from="1621234666400" duration="49000" />
+      <workItem from="1621247024367" duration="930000" />
+      <workItem from="1621340381627" duration="13040000" />
+      <workItem from="1621428291128" duration="1425000" />
+      <workItem from="1621438363242" duration="2475000" />
+      <workItem from="1621768607480" duration="943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="123521000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12109375" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32921812" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/UserInput/UserInput.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/Toolbar.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItems.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/InformationTab/InformationTab.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_lists-conditionals--lists-finished.zip/lists-conditionals--lists-finished/src/Person/Person.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/InformationTab/InformationTab.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/layout/layout.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/BurgerIngredient/BurgerIngredient.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.config.dev.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/Input.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Header/Input.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/MapContainer/MapContainer.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Button/Button.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Button/Button.css" />
+    <entry file="file://$PROJECT_DIR$/src/containers/App.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/CheckoutContainer/CheckoutContainer.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Order/CheckoutSummary/CheckoutSummary.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_routing--05-finished.zip/routing--05-finished/src/axios.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_routing--05-finished.zip/routing--05-finished/src/index.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_routing--05-finished.zip/routing--05-finished/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/src/hoc/withErrorHandler/withErrorHandler.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Modal/Modal.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.css" />
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Modal/Modal.css" />
+    <entry file="file://$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/App.css" />
+    <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js" />
+    <entry file="file://$PROJECT_DIR$/scripts/start.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Game.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Board.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Cell.js" />
+    <entry file="file://$PROJECT_DIR$/src/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/style.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/Game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="58" lean-forward="true" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/Board.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="236" column="43" selection-start-line="236" selection-start-column="35" selection-end-line="236" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/Cell.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
